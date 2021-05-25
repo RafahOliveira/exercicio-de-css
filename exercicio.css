@@ -1,0 +1,18 @@
+body
+{
+    background-color: black;
+    text-align: center;
+}
+div
+{
+    position: relative;
+    width: 100px;
+    height: 50px;
+    left: 550px;
+    background-color: blanchedalmond;
+    border: 10px solid yellow;
+    text-align: center;
+    align-items: center;
+    margin: 30px 0px 0px 0px;
+    padding: 30px 0px 0px 0px;
+}
